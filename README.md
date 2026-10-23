@@ -1,0 +1,2 @@
+# SafeBite
+Course Academic Project 
